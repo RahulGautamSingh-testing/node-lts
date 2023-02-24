@@ -1,0 +1,7 @@
+{
+"dependencies": {
+"node": "18.12.1-alpine",
+"node": "18.12.1",
+"@types/node": "18.7.15"
+}
+}
