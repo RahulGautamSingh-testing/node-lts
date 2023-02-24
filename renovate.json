@@ -1,7 +1,7 @@
 {
   "packageRules": [
     {
-      "allowedVersions": "/^(?:18|20|22)(?:\\.|-|$)/",
+      "allowedVersions": "/^(18|20|22)[.].*$/",
       "description": "Limit node runtime versions to LTS releases.",
       "matchDatasources": [
         "node"
